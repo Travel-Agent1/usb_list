@@ -9,3 +9,5 @@ usb_list
 3. 수리중인 usb 조회
 4. 대여 usb 현황 조회
 ...
+
+http://jeonghwankim.ivyro.net/usb_list
